@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/smartdoc.egg-info/PKG-INFO
+src/smartdoc.egg-info/SOURCES.txt
+src/smartdoc.egg-info/dependency_links.txt
+src/smartdoc.egg-info/top_level.txt
