@@ -1,10 +1,29 @@
 import importlib.metadata
 packages=[
-    "rages",
-    "langchain--mcp-adapters",
+    "beautifulsoup4",
+    "fastapi",
+    "html5lib",
+    "jinja2",
+    "langchain",
+    "langchain-astradb",
+    "langchain_core",
+    "langchain-google-genai",
+    "langchain-groq",
+    "lxml",
+    "python-dotenv",
+    "python-multipart",
+    "selenium",
+    "streamlit",
+    "undetected-chromedriver",
+    "uvicorn",
+    "structlog",
+    "langgraph",
+    "ragas",
+    "langchain-mcp-adapters",
     "mcp",
     "ddgs",
-    "langchain-openai"
+    "langchain-openai",
+    "-e ."
 ]
 
 for pkg in packages:
